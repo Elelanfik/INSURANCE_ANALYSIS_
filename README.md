@@ -65,7 +65,7 @@ Welcome to the AlphaCare Insurance Analytics repository! This project focuses on
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AlphaCare-Insurance-Analytics.git
+   git clone https://github.com/Elelanfik/INSURANCE_ANALYSIS_.git
    cd AlphaCare-Insurance-Analytics
 
 1. Install required packages:
